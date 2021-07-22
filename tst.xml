@@ -1,56 +1,34 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-  <title>
-  aaaaa
-  </title>
-  <link>
-    The web address of the podcast RSS page expressed as a RFC 1738 Uniform
-  Resource Locator. (pg 8/29)
-  </link>
-  <description>
-  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAaaaAAAAAAaaaaa
-  </description>
-  <language>
-  en
-  </language>
-  <itunes:author>
-  itsa me mario
-  </itunes:author>
-  <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/1200px-Cc.logo.circle.svg.png"/>
-  <itunes:explicit>
-  clean
-  </itunes:explicit>
-  <itunes:category text="Arts">
-  <itunes:category text="Design" />
-  <itunes:category text="Fashion & Beauty" />
-  <itunes:category text="Food" />
-  </itunes:category>
-  <itunes:complete>
-  no
-  </itunes:complete>
-  <itunes:type>
-  episodic
-  </itunes:type>
-  <spotify:countryOfOrigin>
-  au
-  </spotify:countryOfOrigin>
-
-
-  <item>
-  <enclosure url="https://github.com/E27183/podcast_test/blob/main/test.mp3" type="audio/mpeg" length="136910"/>
-  <title>
-the great 4 seconds of silence or random library noises if my mic was actually on
-</title>
-<description>
-I like ducks
+<title>Serial</title>
+<link>https://serialpodcast.org</link>
+<description>Serial is a new podcast from the creators of This American Life,
+hosted by Sarah Koenig. Serial unfolds one story - a true story - over the course of a whole
+season. The show follows the plot and characters wherever they lead, through many surprising
+twists and turns. Sarah won't know what happens at the end of the story until she gets there, not
+long before you get there with her. Each week she'll bring you the latest chapter, so it's
+important to listen in, starting with Episode 1. New episodes are released on Thursday
+mornings. Serial, like This American Life, is a production of WBEZ Chicago.
 </description>
-
-
-  </item>
-
-
-
-
+<language>en</language>
+<itunes:author>This American Life</itunes:author>
+<itunes:category text="News & Politics" />
+<itunes:type>episodic</itunes:type>
+<itunes:image
+href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/1200px-Cc.logo.circle.svg.png" />
+<item>
+<guid>1234</guid>
+<title>Episode 09: To Be Suspected</title>
+<description>New information is coming in about what maybe did not happen on
+January 13, 1999. And while the memory of that day is foggy at best, he does remember what
+happened next: being questioned, being arrested and, a little more than a year later, being
+sentenced to life in prison.</description>
+<pubDate>Thu, 20 Nov 2014 10:30:00 +0000</pubDate>
+<itunes:order>9</itunes:order>
+<itunes:duration>136910</itunes:duration>
+<enclosure
+url="https://github.com/E27183/podcast_test/blob/main/test.mp3" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
