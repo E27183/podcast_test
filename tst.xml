@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>
+  aaaaa
+  </title>
+  <link>
+    The web address of the podcast RSS page expressed as a RFC 1738 Uniform
+  Resource Locator. (pg 8/29)
+  </link>
+  <description>
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAaaaAAAAAAaaaaa
+  </description>
+  <language>
+  en
+  </language>
+  <itunes:author>
+  itsa me mario
+  </itunes:author>
+  <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/1200px-Cc.logo.circle.svg.png"/>
+  <itunes:explicit>
+  clean
+  </itunes:explicit>
+  <itunes:category text="Arts">
+  <itunes:category text="Design" />
+  <itunes:category text="Fashion & Beauty" />
+  <itunes:category text="Food" />
+  </itunes:category>
+  <itunes:complete>
+  no
+  </itunes:complete>
+  <itunes:type>
+  episodic
+  </itunes:type>
+  <spotify:countryOfOrigin>
+  au
+  </spotify:countryOfOrigin>
+
+
+  <item>
+  <enclosure url="https://github.com/E27183/podcast_test/blob/main/test.mp3" type="audio/mpeg" length="136910"/>
+  <title>
+the great 4 seconds of silence or random library noises if my mic was actually on
+</title>
+<description>
+I like ducks
+</description>
+
+
+  </item>
+
+
+
+
+</channel>
+</rss>
